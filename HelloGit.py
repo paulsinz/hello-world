@@ -1,4 +1,5 @@
-% Paulthon
+# Paulthon
 print("Hello, git!")
 
-%testing commit
+#testing commit
+#committed but not pushed
